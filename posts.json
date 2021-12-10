@@ -1,14 +1,14 @@
 {
     "Posts": [
         {
-            "Subreddits": ["test", "sandbox"],
-            "Title": "Test post by reddit-auto-poster.py",
-            "URL": "https://github.com/SkullTech/reddit-auto-poster.py"
+            "Subreddits": ["memes, "AdviceAnimals", "MemeEconomy", "ComedyCemetery", "dankmemes", "PrequelMemes", "terriblefacebookmemes","PewdiepieSubmissions", "funny", "teenagers"],
+            "Title": "has lo friends",
+            "URL": "https://filmdaily.co/wp-content/uploads/2021/08/sexmeme-03.jpg"
         },
         {
-            "Subreddits": ["SkullTest"],
-            "Title": "Test post by reddit-auto-poster.py",
-            "Text": "Testing. Don't mind me."
+            "Subreddits": ["memes, "AdviceAnimals", "MemeEconomy", "ComedyCemetery", "dankmemes", "PrequelMemes", "terriblefacebookmemes","PewdiepieSubmissions", "funny", "teenagers"],
+            "Title": "Kya navel hai",
+            "URL": "https://pics.me.me/now-then-troll-sexy-actress-admit-it-she-is-the-60389773.png"
         }
     ]
 }
